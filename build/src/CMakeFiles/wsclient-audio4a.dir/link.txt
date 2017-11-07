@@ -1,0 +1,2 @@
+/usr/bin/ar qc libwsclient-audio4a.a  CMakeFiles/wsclient-audio4a.dir/wsclient-audio4a.cpp.o
+/usr/bin/ranlib libwsclient-audio4a.a

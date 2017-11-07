@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+316c1c720bc89f37591ab591b9b90bee CMakeFiles/autobuild
+84066a627e3698ce005d7addbef9bde6 CMakeFiles/packaging_wgt
+84066a627e3698ce005d7addbef9bde6 CMakeFiles/populate
+c1c106e2f3c71d9b2a220f409c502b57 CMakeFiles/remote-target-populate
+84066a627e3698ce005d7addbef9bde6 CMakeFiles/widget
+07d28b1f49f29c80aa2db42eb3428804 CMakeFiles/widget-target-install
+79af075e35965d399a537c1a9f49a591 libclient-audio4a.wgt
+02e77145b1dbdbdd2d03395ef42760ed package/bin
+a26d62bbf3378f6a2eaa96bea3ebd3b1 package/config.xml

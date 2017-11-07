@@ -1,0 +1,16 @@
+Priority: optional
+Maintainer: Fulup Ar Foll <Fulup@iot.bzh>
+Source: agl-libclient-audio4a
+Build-Depends: debhelper (>= 5),
+ pkg-config,
+ cmake,
+ gcc,
+ g++,
+
+Standards-Version: 3.8.2
+Homepage: https://github.com/iotbzh/libclient-audio4a
+
+Package: agl-libclient-audio4a
+Section: libs
+Architecture: any
+Description: Lib Client for Hight Level AGL audio-4a

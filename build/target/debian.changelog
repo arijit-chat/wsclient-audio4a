@@ -1,0 +1,5 @@
+agl-libclient-audio4a (1.0-0) UNRELEASED; urgency=low
+
+  * init build
+
+ -- Fulup Ar Foll <Fulup@iot.bzh>  Mon, 25 Dec 2007 10:50:38 +0100

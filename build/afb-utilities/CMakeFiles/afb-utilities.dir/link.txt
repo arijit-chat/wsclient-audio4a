@@ -1,0 +1,2 @@
+/usr/bin/ar qc libafb-utilities.a  CMakeFiles/afb-utilities.dir/wrap-json.c.o CMakeFiles/afb-utilities.dir/filescan-utils.c.o
+/usr/bin/ranlib libafb-utilities.a

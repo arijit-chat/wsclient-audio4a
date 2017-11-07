@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="libclient-audio4a" version="1.0">
+  <name>libclient-audio4a</name>
+  <icon src="icon.png"/>
+  <content src="EntryPoint_Path_Not_Set" type="MimeType_Not_Set"/>
+  <description>Lib Client for Hight Level AGL audio-4a</description>
+  <author>Fulup Ar Foll &lt;Fulup@iot.bzh&gt;</author>
+  <license>APL2.0</license>
+</widget>
